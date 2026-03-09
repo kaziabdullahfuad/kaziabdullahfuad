@@ -7,6 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaziabdullahfuad&label=Profile%20views&color=0e75b6&style=flat" alt="kaziabdullahfuad" /> </p>
 
+- 🔭 I’m currently working on Building scalable backend applications using **ASP.NET MVC / .NET**
+- 🤝 I’m looking to collaborate on Full-stack web applications
+- 🌱 I’m currently learning **ASP.NET Web API** and clean architecture
+- ⚡ Fun fact When I'm not coding, I enjoy speed-solving **Rubik’s Cubes** and playing **CS:GO**, both of which challenge my focus and strategic thinking.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaziabdullahfuad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaziabdullahfuad" height="30" width="40" /></a>
